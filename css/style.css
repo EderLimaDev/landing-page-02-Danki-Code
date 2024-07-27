@@ -14,7 +14,7 @@ html,body{
 /**Divs gerais!*/
 .container{
 	width: 100%;
-	max-width: 1200px;
+	max-width: 1024px;
 	margin:0 auto;
 }
 
@@ -24,7 +24,7 @@ html,body{
 /******/
 
 header{
-	background-color: rgb(180,180,180);
+	background-color: rgb(220,220,220);
 	padding:10px 2% 40px 2%;
 }
 
@@ -165,6 +165,7 @@ section.chamada p {
 }
 
 footer {
+	background-color: rgb(220,220,220);
 	text-align: center;
 	padding: 20px 0;
 }
